@@ -77,14 +77,14 @@ Use the collaborators panel in the setting page to add your teammates
 
 
 ## Running the tests
-The tests automatically run whenever a git push is made. You can however manually run the tests if you wish.
+The tests automatically run whenever a git push is made. You can also manually run the tests if you wish.
 
 ![lazy hehe](https://github.com/Jackmin801/DS-Assignment-2022/blob/main/resource/manualtest.png?raw=true)
 
 ## Raising Issues
 If you are having any trouble with the assignment, found a bug or just need clarifications, feel free to raise an issue using the issues tab.
 
-Do note that your issue will be publicly visible. (Don't put your your solution and don't say anything you wouldn't be ok with your classmates or lecturer's seeing)
+Do note that your issue will be publicly visible. (Don't put your solution and don't say anything you wouldn't be ok with your classmates or lecturer's seeing)
 
 ![lazy hehe](https://github.com/Jackmin801/DS-Assignment-2022/blob/main/resource/issues.png?raw=true)
 
