@@ -89,3 +89,6 @@ Do note that your issue will be publicly visible. (Don't put your solution and d
 ![lazy hehe](https://github.com/Jackmin801/DS-Assignment-2022/blob/main/resource/issues.png?raw=true)
 
 # Good luck have fun!
+![lazy hehe](./resource/success.png?raw=true)
+
+If you are able to get all 4 ticks. You should be complete with the basic requirements
