@@ -1,0 +1,62 @@
+name: Tests
+on:
+  push:
+  workflow_dispatch:
+  
+jobs:
+  Test-Fibonacci:
+    runs-on: self-hosted
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - name: Compile solution
+        run: javac solutions/Fibonacci.java
+      - name: Test 1
+        run: time bash tasks/fibonacci/run.sh
+      - name: Test 2
+        run: time bash tasks/fibonacci/run.sh
+      - name: Test 3
+        run: time bash tasks/fibonacci/run.sh
+
+  Test-Payment:
+    runs-on: self-hosted
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - name: Compile solution
+        run: javac solutions/Payment.java
+      - name: Test 1
+        run: time bash tasks/payment/run.sh
+      - name: Test 2
+        run: time bash tasks/payment/run.sh
+      - name: Test 3
+        run: time bash tasks/payment/run.sh
+
+
+  Test-Navigation:
+    runs-on: self-hosted
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - name: Compile solution
+        run: javac solutions/Navigation.java
+      - name: Test 1
+        run: time bash tasks/navigation/run.sh
+      - name: Test 2
+        run: time bash tasks/navigation/run.sh
+      - name: Test 3
+        run: time bash tasks/navigation/run.sh
+
+  Test-Histogram:
+    runs-on: self-hosted
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - name: Compile solution
+        run: javac solutions/Histogram.java
+      - name: Test 1
+        run: time bash tasks/histogram/run.sh
+      - name: Test 2
+        run: time bash tasks/histogram/run.sh
+      - name: Test 3
+        run: time bash tasks/histogram/run.sh
