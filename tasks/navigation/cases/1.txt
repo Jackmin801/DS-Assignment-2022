@@ -1,0 +1,414 @@
+311
+Batu Pahat => Sipitang
+Johor Bahru => Machang
+Johor Bahru => Bandar Baharu
+Johor Bahru => Rembau
+Kluang => Kuala Selangor
+Kluang => Gua Musang
+Kota Tinggi => Kuantan
+Mersing => Cheras
+Mersing => Dalat
+Mersing => Kuala Pilah
+Muar => Hulu Terengganu
+Muar => South Seberang Perai
+Pontian => Kunak
+Pontian => Raub
+Pontian => Kapit
+Segamat => Setiawangsa
+Kulaijaya => Central Malacca
+Kulaijaya => Sepang
+Kulaijaya => Sipitang
+Ledang => Kota Belud
+Baling => Batu Pahat
+Bandar Baharu => Dungun
+Kota Setar => Pekan
+Kota Setar => Kuala Krai
+Kota Setar => Kuala Nerus
+Kuala Muda => Yan
+Kubang Pasu => Wangsa Maju
+Kubang Pasu => Sepang
+Kulim => Tambunan
+Kulim => Kinta
+Kulim => Lipis
+Pulau Langkawi => Padang Terap
+Pulau Langkawi => Lubok Antu
+Padang Terap => Selama
+Padang Terap => Kapit
+Padang Terap => Port Dickson
+Pendang => Pitas
+Pokok Sena => Kemaman
+Pokok Sena => Hulu Perak
+Sik => Kulaijaya
+Sik => Kampar
+Sik => Saratok
+Yan => Ledang
+Yan => Lundu
+Bachok => Larut Matang
+Bachok => Hulu Langat
+Gua Musang => Kuala Muda
+Gua Musang => Lundu
+Jeli => Jasin
+Jeli => Pasir Mas
+Jeli => Kota Marudu
+Kota Bharu => Titiwangsa
+Kota Bharu => Kinabatangan
+Kuala Krai => Kampar
+Machang => Meradong
+Pasir Mas => Simunjan
+Pasir Mas => Klang
+Pasir Mas => Kuala Langat
+Pasir Mas => Kemaman
+Pasir Puteh => Saratok
+Tanah Merah => Siburan
+Tumpat => Rembau
+Tumpat => Kuala Kangsar
+Alor Gajah => Penampang
+Alor Gajah => Belaga
+Central Malacca => Maran
+Central Malacca => Kuching
+Central Malacca => Petaling
+Jasin => Bandar Tun Razak
+Jasin => Cheras
+Jasin => Bera
+Jasin => Padang Terap
+Jelebu => Beluran
+Jelebu => Lipis
+Jempol => Seremban
+Jempol => Lahad Datu
+Jempol => Mersing
+Kuala Pilah => Tambunan
+Kuala Pilah => Kuala Terengganu
+Kuala Pilah => Daro
+Port Dickson => Putrajaya
+Port Dickson => Betong
+Rembau => Pasir Mas
+Rembau => Saratok
+Seremban => Manjung
+Seremban => Machang
+Seremban => Pasir Mas
+Tampin => Kinabatangan
+Bentong => Pulau Langkawi
+Bentong => Asajaya
+Bentong => North Seberang Perai
+Bera => Pendang
+Bera => Lundu
+Bera => Kuala Kangsar
+Cameron Highlands => Klang
+Cameron Highlands => Johor Bahru
+Cameron Highlands => Dalat
+Jerantut => Julau
+Kuantan => Kapit
+Kuantan => Lembah Pantai
+Kuantan => Bintulu
+Lipis => Semporna
+Lipis => Labuan
+Lipis => Kota Kinabalu
+Maran => Sik
+Maran => Lembah Pantai
+Pekan => Titiwangsa
+Pekan => Klang
+Pekan => Tenom
+Pekan => Kuala Muda
+Pekan => Ranau
+Raub => Seremban
+Rompin => Pasir Puteh
+Temerloh => Kuala Pilah
+North-East Penang Island => Mukah
+North-East Penang Island => North Seberang Perai
+South-West Penang => Kuala Langat
+South-West Penang => Kulim
+South-West Penang => Kanowit
+North Seberang Perai => Keningau
+Central Seberang Perai => Selama
+South Seberang Perai => Nabawan
+Batang Padang => Bentong
+Hilir Perak => Perak Tengah
+Hulu Perak => Cheras
+Kerian => Maran
+Kerian => Sik
+Kerian => Kanowit
+Kinta => North-East Penang Island
+Kuala Kangsar => Kluang
+Larut Matang => Ledang
+Larut Matang => Sarikei
+Selama => Mukah
+Manjung => Kubang Pasu
+Perak Tengah => Penampang
+Perak Tengah => Hulu Terengganu
+Perak Tengah => Marudi
+Kampar => Perlis
+Perlis => Bandar Tun Razak
+Perlis => Pekan
+Perlis => Bachok
+Perlis => Hulu Langat
+Gombak => Tambunan
+Hulu Langat => Pasir Puteh
+Hulu Langat => Rembau
+Hulu Selangor => Kuala Terengganu
+Klang => Bentong
+Kuala Langat => Tumpat
+Kuala Selangor => Segamat
+Petaling => Johor Bahru
+Petaling => Selangau
+Petaling => Rompin
+Petaling => Keningau
+Sabak Bernam => Batu
+Sepang => Batang Padang
+Sepang => Kuching
+Besut => Kota Bharu
+Besut => Machang
+Besut => Kulim
+Dungun => Kemaman
+Dungun => Ranau
+Hulu Terengganu => Kerian
+Hulu Terengganu => Perlis
+Kemaman => Kota Setar
+Kemaman => Kinabatangan
+Kuala Terengganu => Johor Bahru
+Marang => Putatan
+Marang => Segambut
+Setiu => Labuan
+Setiu => Bentong
+Setiu => Pasir Mas
+Setiu => Tatau
+Kuala Nerus => Lawas
+Kuala Nerus => Saratok
+Kuala Nerus => Hulu Langat
+Kuala Nerus => Segamat
+Bukit Bintang => Central Seberang Perai
+Bukit Bintang => Perlis
+Bandar Tun Razak => Central Malacca
+Cheras => Kuantan
+Cheras => Kubang Pasu
+Setiawangsa => Tenom
+Setiawangsa => Kanowit
+Kepong => Kuala Terengganu
+Kepong => Keningau
+Kepong => North Seberang Perai
+Lembah Pantai => Raub
+Lembah Pantai => Pasir Puteh
+Batu => Raub
+Batu => Kepong
+Batu => Sipitang
+Seputeh => Titiwangsa
+Seputeh => Rembau
+Segambut => Setiu
+Titiwangsa => Padang Terap
+Wangsa Maju => Batang Padang
+Wangsa Maju => Pendang
+Wangsa Maju => Yan
+Putrajaya => Mukah
+Beaufort => Labuan
+Beaufort => Batu
+Keningau => Bandar Tun Razak
+Keningau => Lahad Datu
+Kuala Penyu => Kulaijaya
+Kuala Penyu => Kubang Pasu
+Kuala Penyu => Bintulu
+Kuala Penyu => Tanah Merah
+Nabawan => South Seberang Perai
+Nabawan => Sipitang
+Nabawan => Kuala Kangsar
+Sipitang => Seremban
+Sipitang => Raub
+Tambunan => Bau
+Tambunan => Labuan
+Tambunan => Daro
+Tenom => Kerian
+Kota Marudu => Kuala Krai
+Kota Marudu => Labuan
+Kudat => Central Malacca
+Pitas => Sarikei
+Pitas => Tawau
+Beluran => Setiawangsa
+Beluran => Tawau
+Beluran => Tanah Merah
+Kinabatangan => Tenom
+Kinabatangan => Perlis
+Sandakan => Labuan
+Tongod => Klang
+Kunak => Beaufort
+Kunak => Kota Kinabalu
+Lahad Datu => Pasir Puteh
+Lahad Datu => Tatau
+Semporna => Song
+Tawau => Semporna
+Tawau => Yan
+Tawau => Bachok
+Kota Belud => Central Malacca
+Kota Belud => Sipitang
+Kota Kinabalu => Jelebu
+Papar => Kinta
+Penampang => Marang
+Putatan => Batang Padang
+Ranau => Seremban
+Tuaran => Ledang
+Tuaran => Batu
+Betong => Alor Gajah
+Betong => North-East Penang Island
+Betong => Bachok
+Saratok => Meradong
+Saratok => Song
+Bintulu => Cameron Highlands
+Bintulu => Kota Kinabalu
+Tatau => Putrajaya
+Tatau => Kota Marudu
+Belaga => Central Seberang Perai
+Belaga => Alor Gajah
+Belaga => Hilir Perak
+Belaga => Tambunan
+Kapit => Kota Bharu
+Kapit => Papar
+Song => Gombak
+Song => Pontian
+Bau => Kota Bharu
+Bau => Kuala Nerus
+Kuching => Cameron Highlands
+Kuching => Beluran
+Lundu => Central Seberang Perai
+Lundu => Bandar Baharu
+Lawas => Batang Padang
+Lawas => Pasir Puteh
+Lawas => Sipitang
+Limbang => Bandar Tun Razak
+Limbang => Hilir Perak
+Marudi => Song
+Marudi => Kubang Pasu
+Miri => Mersing
+Miri => Kinabatangan
+Dalat => Alor Gajah
+Dalat => Kunak
+Daro => Jasin
+Matu => Hulu Terengganu
+Matu => Port Dickson
+Mukah => Kemaman
+Asajaya => Julau
+Asajaya => Nabawan
+Samarahan => Setiawangsa
+Simunjan => Julau
+Simunjan => Sik
+Julau => Beluran
+Julau => Kuala Nerus
+Julau => Mukah
+Meradong => Kuantan
+Sarikei => Simunjan
+Sarikei => Pekan
+Pakan => Dungun
+Pakan => Kudat
+Siburan => Marang
+Tebedu => Bandar Tun Razak
+Tebedu => Sri Aman
+Kanowit => Kuala Nerus
+Sibu => Bintulu
+Selangau => Bandar Tun Razak
+Selangau => Selama
+Selangau => Manjung
+Selangau => Pendang
+Lubok Antu => Larut Matang
+Lubok Antu => Jelebu
+Lubok Antu => Cameron Highlands
+Sri Aman => Kuala Krai
+Labuan => Jasin
+Labuan => Papar
+QUERIES
+100
+Bau -> Marudi
+Dungun -> North-East Penang Island
+Kuala Terengganu -> Baling
+Bachok -> Pendang
+Pendang -> Kota Kinabalu
+Tumpat -> Lembah Pantai
+Perak Tengah -> Kerian
+Batu -> Kuala Krai
+Dalat -> Mersing
+Rompin -> Kudat
+Mukah -> Kunak
+Pokok Sena -> Perak Tengah
+Pekan -> Mukah
+Pitas -> Lubok Antu
+Jeli -> Jelebu
+Selama -> Kota Marudu
+Bandar Baharu -> Beaufort
+North Seberang Perai -> Keningau
+Tampin -> Batang Padang
+South-West Penang -> Larut Matang
+Kanowit -> Hilir Perak
+Kuala Penyu -> Klang
+Seputeh -> Jerantut
+Kota Setar -> Dungun
+Seputeh -> Kuala Selangor
+Sandakan -> Kuala Kangsar
+Kota Setar -> Kampar
+Meradong -> Tambunan
+Kuala Pilah -> Kunak
+Selama -> Sabak Bernam
+Jeli -> Bintulu
+Pitas -> Manjung
+Julau -> Kampar
+Kemaman -> Kinta
+Kepong -> Papar
+Port Dickson -> Pendang
+Pokok Sena -> Besut
+Bandar Baharu -> Penampang
+Pakan -> Manjung
+Bau -> Nabawan
+Selama -> Kuala Penyu
+Tambunan -> Sibu
+Kanowit -> Kota Setar
+Nabawan -> Putrajaya
+South-West Penang -> Jeli
+Tongod -> Putrajaya
+Miri -> Putatan
+Putatan -> Kota Setar
+Petaling -> Johor Bahru
+Hilir Perak -> Sandakan
+Jeli -> Kubang Pasu
+Sri Aman -> Kinabatangan
+Sibu -> Kota Bharu
+Nabawan -> Lahad Datu
+Putrajaya -> Kota Bharu
+Gua Musang -> Meradong
+Nabawan -> Kinta
+Wangsa Maju -> Lahad Datu
+Gua Musang -> Tampin
+Kota Setar -> Batu Pahat
+Kerian -> Matu
+Kluang -> Miri
+Kulaijaya -> Seremban
+Kuching -> Kinabatangan
+North-East Penang Island -> Julau
+Bera -> Betong
+Wangsa Maju -> Kota Kinabalu
+Ledang -> Tebedu
+Kota Kinabalu -> Kuala Kangsar
+Asajaya -> Tumpat
+Pakan -> Padang Terap
+Kapit -> North Seberang Perai
+Tampin -> Bau
+Miri -> Kota Marudu
+Kota Belud -> Jerantut
+Pokok Sena -> Marudi
+Kinta -> Hulu Perak
+Pakan -> Bandar Tun Razak
+Kerian -> Beaufort
+Titiwangsa -> Sarikei
+Setiawangsa -> Central Seberang Perai
+Kota Bharu -> Tongod
+Mersing -> Central Seberang Perai
+Segamat -> Seremban
+Gua Musang -> Kuala Terengganu
+Kuala Terengganu -> Hulu Selangor
+Setiawangsa -> Kanowit
+Kuching -> South Seberang Perai
+Pitas -> Kapit
+Tebedu -> Temerloh
+Nabawan -> Seremban
+Tuaran -> Limbang
+Papar -> Pasir Mas
+Kemaman -> Petaling
+Kota Tinggi -> Bandar Baharu
+Lundu -> Tawau
+Sri Aman -> Sarikei
+Kota Bharu -> Kinta
+Rompin -> Sri Aman
+Batu -> Matu
