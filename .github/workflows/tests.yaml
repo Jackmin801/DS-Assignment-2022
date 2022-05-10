@@ -5,7 +5,7 @@ on:
   
 jobs:
   Test-Fibonacci:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
         uses: actions/checkout@v2
@@ -19,7 +19,7 @@ jobs:
         run: time bash tasks/fibonacci/run.sh
 
   Test-Payment:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
         uses: actions/checkout@v2
@@ -34,7 +34,7 @@ jobs:
 
 
   Test-Navigation:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
         uses: actions/checkout@v2
@@ -48,7 +48,7 @@ jobs:
         run: time bash tasks/navigation/run.sh
 
   Test-Histogram:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
         uses: actions/checkout@v2
