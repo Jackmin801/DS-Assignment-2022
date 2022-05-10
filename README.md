@@ -1,2 +1,4 @@
-# DS Assignment Tests 2022
-Meow meow
+# DS Assignment 2022
+
+Hello Juniors.
+Eh I will fill later. Having exam now hahaha.
