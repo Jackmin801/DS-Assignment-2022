@@ -9,5 +9,7 @@ then
 else
     timeout $TIMELIMIT <iopipe0 java -classpath solutions Fibonacci | python3 tasks/fibonacci/run.py > iopipe0;
 fi
+PASS=$?
 
 rm iopipe0 iopipe1
+exit $PASS
