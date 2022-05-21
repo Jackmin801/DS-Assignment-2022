@@ -30,7 +30,10 @@ for case in sorted(test_cases):
             print(line, end="")
             src, dst = line.strip().split(" -> ")
 
-            user_path = list(map(str.strip, input().split("->")))
+            try:
+                user_path = list(map(str.strip, input().split("->")))
+            except EOFError:
+                raise Exception('Program stopped without completing all the tasks!')
             if user_path[0] != src:
                 raise ValueError("This path doesnt start at the starting station!")
             if user_path[-1] != dst:
