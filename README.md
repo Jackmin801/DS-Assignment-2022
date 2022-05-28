@@ -3,7 +3,12 @@
 Hello.
 Welcome to the ` Meows like Trains ` repository.
 
-Let's get you set up shall we?
+# Announcements
+**IMPORTANT NOTE**: Do not take input from the text files. Your program should ONLY interact with standard IO.
+
+**OTHER NOTE**: The text files are massive (to humans) and you probably should not be using them for development. You should be writing your own smaller test cases for your own testing.
+
+Now that that is out of the way. Let's get you set up shall we?
 
 ## Local clone
 You first need to copy the repo to your local machine. Here is one method to do it.
